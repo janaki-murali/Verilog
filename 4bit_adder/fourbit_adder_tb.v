@@ -1,4 +1,4 @@
-module tb_fourbit_adder;
+module fourbit_adder_tb;
   reg [3:0] a,b;
   reg cin;
   wire [3:0] s;
