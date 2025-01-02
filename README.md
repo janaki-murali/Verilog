@@ -2,13 +2,6 @@
 
 Welcome to the **Verilog Code Examples for Digital Design** repository! This repository contains a collection of Verilog code modules that demonstrate various digital design concepts, including combinational and sequential circuits. These modules are designed for FPGA and other hardware description projects, and they provide practical insights into how digital systems can be implemented and tested using Verilog.
 
-## Table of Contents
-
-- [Modules Included](#modules-included)
-- [Testing the Code](#testing-the-code)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Modules Included
 
 This repository includes Verilog code for the following modules:
